@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Shmup\Assets\Scripts\ShipControlsScript.cs">
+    <Files>
+      <File FileName="..\Shmup\Assets\Scripts\ShipControlsScript.cs" Line="26" Column="3" />
+      <File FileName="..\Bouncing Bullets\Assets\Scripts\PlayerControlScript.cs" Line="59" Column="86" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
